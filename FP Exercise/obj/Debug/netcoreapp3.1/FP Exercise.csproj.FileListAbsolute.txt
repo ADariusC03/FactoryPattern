@@ -1,0 +1,13 @@
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\bin\Debug\netcoreapp3.1\FP Exercise.exe
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\bin\Debug\netcoreapp3.1\FP Exercise.deps.json
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\bin\Debug\netcoreapp3.1\FP Exercise.runtimeconfig.json
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\bin\Debug\netcoreapp3.1\FP Exercise.runtimeconfig.dev.json
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\bin\Debug\netcoreapp3.1\FP Exercise.dll
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\bin\Debug\netcoreapp3.1\FP Exercise.pdb
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\obj\Debug\netcoreapp3.1\FP Exercise.csprojAssemblyReference.cache
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\obj\Debug\netcoreapp3.1\FP Exercise.AssemblyInfoInputs.cache
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\obj\Debug\netcoreapp3.1\FP Exercise.AssemblyInfo.cs
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\obj\Debug\netcoreapp3.1\FP Exercise.csproj.CoreCompileInputs.cache
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\obj\Debug\netcoreapp3.1\FP Exercise.dll
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\obj\Debug\netcoreapp3.1\FP Exercise.pdb
+C:\Users\adari\repos\FactoryPattern\FactoryPattern\FP Exercise\obj\Debug\netcoreapp3.1\FP Exercise.genruntimeconfig.cache
